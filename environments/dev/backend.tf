@@ -15,7 +15,7 @@
 
 terraform {
   backend "gcs" {
-    bucket = "PROJECT_ID-tfstate"
+    bucket = "even-autonomy-464301-n0-tfstate"
     prefix = "env/dev"
   }
 }
