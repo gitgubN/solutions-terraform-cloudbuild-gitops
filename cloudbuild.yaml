@@ -90,3 +90,5 @@ steps:
         echo "*******************************************************************************"
       fi
 # [END tf-apply]      
+
+logsBucket: 'gs://even-autonomy-464301-n0-tfstate'
